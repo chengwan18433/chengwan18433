@@ -1,4 +1,5 @@
-# welcome
+## 关于我
+精神小伙一个，正在学习项目，算法，技术Demo
 
 <div align=center>
 
