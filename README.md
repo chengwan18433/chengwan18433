@@ -1,5 +1,5 @@
 ## 关于我
-精神小伙一个，正在学习项目，算法，技术Demo
+JAVA(JavaIO、JVM、JUC)、分布式存储、docker、k8s
 
 <div align=center>
 
