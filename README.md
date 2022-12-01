@@ -1,5 +1,5 @@
 ## 关于我
-JAVA(JavaIO、JVM、JUC)、分布式存储、docker、k8s
+JAVA、raft、mq、rpc、docker、k8s
 
 <div align=center>
 
