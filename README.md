@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 -->
   </div>
   
-  ## 我的代码情况🤣
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huihuihuihuicyh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue" />
-<!--<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengwan18433&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" /> -->
