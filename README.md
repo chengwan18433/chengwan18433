@@ -1,5 +1,5 @@
 ## 关于我
-JAVA、raft、mq、rpc、docker、k8s
+kubernetes\network\
 
 <div align=center>
 
