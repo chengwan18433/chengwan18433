@@ -1,5 +1,5 @@
 ## 关于我
-kubernetes\network\
+kubernetes、network
 
 <div align=center>
 
